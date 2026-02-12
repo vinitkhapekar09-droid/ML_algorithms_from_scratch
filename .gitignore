@@ -1,0 +1,79 @@
+# =========================
+# Python Cache Files
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# PyCharm / IntelliJ
+# =========================
+.idea/
+
+# =========================
+# System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Build / Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Machine Learning Files
+# =========================
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.model
+*.pkl
+*.joblib
+
+# =========================
+# Data Files (optional)
+# Uncomment if datasets are large
+# =========================
+# data/
+# *.csv
+# *.json
+# *.jsonl
+
+# =========================
+# Firebase (if using)
+# =========================
+firebase-debug.log
