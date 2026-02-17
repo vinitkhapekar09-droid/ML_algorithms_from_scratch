@@ -27,7 +27,7 @@ The goal of this project is to deeply understand the mathematical foundations an
 - Matplotlib (for visualization)
 
 
----
+--
 
-## 📂 Project Structure
+
 
