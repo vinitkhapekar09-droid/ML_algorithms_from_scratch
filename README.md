@@ -12,18 +12,11 @@ The goal of this project is to deeply understand the mathematical foundations an
 
 - Linear Regression (Normal Equation & Gradient Descent)
 - Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Naive Bayes
-- Perceptron
-- Support Vector Machine (Basic Version)
-- Decision Tree
-- Random Forest
+
 
 ### 🔹 Unsupervised Learning
 
 - K-Means Clustering
-- Hierarchical Clustering
-- Principal Component Analysis (PCA)
 
 ---
 
@@ -32,7 +25,7 @@ The goal of this project is to deeply understand the mathematical foundations an
 - Python
 - NumPy
 - Matplotlib (for visualization)
-- Pandas (for dataset handling)
+
 
 ---
 
